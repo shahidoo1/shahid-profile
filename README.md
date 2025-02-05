@@ -48,6 +48,11 @@
 git add README.md
 git commit -m "first commit"
 
+<h3 align="left">📁 GitHub Repositories Overview:</h3>
+
+[![Shahid's GitHub Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=shahidoo1&layout=compact&langs_count=10&theme=default)](https://github.com/shahidoo1?tab=repositories)
+
+
 
 
 
