@@ -47,8 +47,8 @@
 
 git add README.md
 git commit -m "first commit"
-## 📂 Popular Repositories
 
-[![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=shahidoo1&repo=weather-app&theme=tokyonight)](https://github.com/shahidoo1/weather-app)
+
+
 
 
