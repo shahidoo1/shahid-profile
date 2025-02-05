@@ -48,12 +48,23 @@
 git add README.md
 git commit -m "first commit"
 
-<h3 align="left">📁 GitHub Repositories Overview:</h3>
+---
 
-[![Shahid's GitHub Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=shahidoo1&layout=compact&langs_count=10&theme=default)](https://github.com/shahidoo1?tab=repositories)
+<h3 align="left">📊 GitHub Profile Summary:</h3>
 
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahidoo1&theme=default" alt="GitHub Profile Details" />
+</p>
 
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahidoo1&theme=default" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahidoo1&theme=default" alt="Most Committed Language" />
+</p>
 
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahidoo1&theme=default" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahidoo1&theme=default&utcOffset=5.5" alt="Productive Time" />
+</p>
 
 
 
