@@ -53,5 +53,12 @@ git commit -m "first commit"
 ### 📂 Check Out My Repositories:
 🔗 [View All Repositories](https://github.com/shahidoo1?tab=repositories)
 
+### 📈 GitHub Overview:
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahidoo1&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahidoo1&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahidoo1&theme=default" />
+</p>
+
 
 
