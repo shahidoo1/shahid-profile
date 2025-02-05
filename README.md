@@ -47,3 +47,11 @@
 
 git add README.md
 git commit -m "first commit"
+
+## 📂 Popular Repositories
+
+| Repository | Description | Stars |
+|------------|-------------|------|
+| [weather-app](https://github.com/shahidoo1/weather-app) | A Flutter weather app with real-time data | ⭐⭐⭐ |
+
+
