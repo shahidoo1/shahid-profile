@@ -36,19 +36,6 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahidoo1&show_icons=true&locale=en" alt="shahidoo1" />
-</p>
-
-<p align="left">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahidoo1&" alt="shahidoo1" />
-</p>
-
-git add README.md
-git commit -m "first commit"
-
----
 
 ### 📂 Check Out My Repositories:
 🔗 [View All Repositories](https://github.com/shahidoo1?tab=repositories)
